@@ -1,0 +1,16 @@
+h1,
+h3,
+th {
+  color: lightslategray;
+}
+
+hr {
+  /* border-style: dotted solid; */
+  /* border: dotted; */
+  border-top: dotted lightsteelblue;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 10%;
+  border-width: 20px;
+}
